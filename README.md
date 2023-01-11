@@ -4,9 +4,8 @@ This project is to build a machile learning multiple regression model for the pr
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Technologies Used](#technologies-used)
 
 
 ## General Information
